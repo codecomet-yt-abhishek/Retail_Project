@@ -136,7 +136,7 @@ The project involved:
 Data ingestion and exploration using Pandas.
 Efficient processing and transformation of data using PySpark for large-scale data handling.
 Handling missing values, inconsistent data types, and applying filters to remove unwanted data.
-Saving the final dataset to various file formats (CSV, Parquet, and JSON) for downstream analysis.
+Saving the final dataset to various file formats (CSV, Parquet) for analysis.
 I also implemented error handling to ensure successful data processing and file saving.
 
 Conclusion:
